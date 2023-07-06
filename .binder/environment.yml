@@ -6,4 +6,5 @@ dependencies:
   - matplotlib
   - scipy
   - sympy
+  . ipyml
   - version_information
