@@ -1,4 +1,4 @@
-# Physik_mit_Python
+# Physik mit Python
 
 Online-Materialien zu meiner deutschen *YouTube*
 *Physik mit Python* Videoserie.
