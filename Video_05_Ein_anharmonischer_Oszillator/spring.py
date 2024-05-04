@@ -1,3 +1,6 @@
+# The code 'spring.py' was obtained from
+# https://github.com/nrsyed/utilities/tree/master/spring
+
 import math
 import numpy as np
 
