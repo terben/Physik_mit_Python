@@ -1,10 +1,10 @@
 name: Physik_mit_Python
 
 dependencies:
-  - python=3.10
+  - python
   - numpy
   - matplotlib
+  - jupyterlab
   - scipy
   - sympy
-  - ipympl
   - version_information
