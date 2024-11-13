@@ -1,4 +1,4 @@
-## Online Material zu [Teil 06]() meiner *Physik mit Python*-Videoreihe auf YouTube.
+## Online Material zu [Teil 06](https://youtu.be/OqDBBn6-HW0) meiner *Physik mit Python*-Videoreihe auf YouTube.
 
 - [Video_06_Animationen_mit_matplotlib.ipynb](Video_06_Animationen_mit_matplotlib.ipynb): Das im Video vorgestellte und kommentierte Jupyter-Notebook
 
